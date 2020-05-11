@@ -1,0 +1,3 @@
+Salad: 7.00
+Pizza: 12.00
+Your order comes out to $19

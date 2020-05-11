@@ -1,0 +1,4 @@
+Salad - 7.00
+Pizza - 12.00
+Pasta - 8.00
+Bread - 6.00

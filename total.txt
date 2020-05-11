@@ -1,0 +1,2 @@
+The number of lines is: 3. 
+The number of words is: 16 .
